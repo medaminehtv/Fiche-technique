@@ -1,0 +1,6 @@
+{
+  "name": "AtelierCost Pro — Fiches Techniques & Coûts de Revient",
+  "description": "Logiciel de gestion de fiches techniques, nomenclature textile, confection et artisanat, calcul automatique des coûts de revient, stocks et marges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
